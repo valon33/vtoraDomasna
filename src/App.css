@@ -1,0 +1,17 @@
+.students {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  color: #333;
+  background-color: beige;
+  padding: 20px;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  color: #333;
+}
+
+.blue {
+  color:blueviolet;
+}
